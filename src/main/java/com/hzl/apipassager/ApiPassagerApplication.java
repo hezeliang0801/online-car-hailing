@@ -10,6 +10,7 @@ public class ApiPassagerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiPassagerApplication.class, args);
+
 	}
 
 }
